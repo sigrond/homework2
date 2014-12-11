@@ -1,0 +1,454 @@
+F:\Program Files\NVIDIAtoolkit\include\cuda_runtime.h
+f:\program files\nvidiatoolkit\include\host_config.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\sal.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\ConcurrencySal.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\vadefs.h
+f:\program files\nvidiatoolkit\include\builtin_types.h
+f:\program files\nvidiatoolkit\include\device_types.h
+f:\program files\nvidiatoolkit\include\host_defines.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\host_defines.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\limits.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\stddef.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+f:\program files\nvidiatoolkit\include\surface_types.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\texture_types.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\vector_types.h
+f:\program files\nvidiatoolkit\include\builtin_types.h
+f:\program files\nvidiatoolkit\include\device_types.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\surface_types.h
+f:\program files\nvidiatoolkit\include\texture_types.h
+f:\program files\nvidiatoolkit\include\vector_types.h
+f:\program files\nvidiatoolkit\include\host_defines.h
+f:\program files\nvidiatoolkit\include\channel_descriptor.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\cuda_runtime_api.h
+f:\program files\nvidiatoolkit\include\host_defines.h
+f:\program files\nvidiatoolkit\include\builtin_types.h
+f:\program files\nvidiatoolkit\include\device_types.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\surface_types.h
+f:\program files\nvidiatoolkit\include\texture_types.h
+f:\program files\nvidiatoolkit\include\vector_types.h
+f:\program files\nvidiatoolkit\include\cuda_device_runtime_api.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\host_defines.h
+f:\program files\nvidiatoolkit\include\host_defines.h
+f:\program files\nvidiatoolkit\include\vector_types.h
+f:\program files\nvidiatoolkit\include\cuda_runtime_api.h
+f:\program files\nvidiatoolkit\include\driver_functions.h
+f:\program files\nvidiatoolkit\include\builtin_types.h
+f:\program files\nvidiatoolkit\include\device_types.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\surface_types.h
+f:\program files\nvidiatoolkit\include\texture_types.h
+f:\program files\nvidiatoolkit\include\vector_types.h
+f:\program files\nvidiatoolkit\include\host_defines.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\host_defines.h
+f:\program files\nvidiatoolkit\include\vector_functions.h
+f:\program files\nvidiatoolkit\include\builtin_types.h
+f:\program files\nvidiatoolkit\include\device_types.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\surface_types.h
+f:\program files\nvidiatoolkit\include\texture_types.h
+f:\program files\nvidiatoolkit\include\vector_types.h
+f:\program files\nvidiatoolkit\include\host_defines.h
+f:\program files\nvidiatoolkit\include\vector_types.h
+f:\program files\nvidiatoolkit\include\common_functions.h
+f:\program files\nvidiatoolkit\include\builtin_types.h
+f:\program files\nvidiatoolkit\include\device_types.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\surface_types.h
+f:\program files\nvidiatoolkit\include\texture_types.h
+f:\program files\nvidiatoolkit\include\vector_types.h
+f:\program files\nvidiatoolkit\include\host_defines.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\string.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\time.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\wtime.inl
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\time.inl
+f:\program files\nvidiatoolkit\include\math_functions.h
+f:\program files\nvidiatoolkit\include\builtin_types.h
+f:\program files\nvidiatoolkit\include\device_types.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\surface_types.h
+f:\program files\nvidiatoolkit\include\texture_types.h
+f:\program files\nvidiatoolkit\include\vector_types.h
+f:\program files\nvidiatoolkit\include\host_defines.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\math.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\stdlib.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\cmath
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\yvals.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\xkeycheck.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\use_ansi.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\math.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\xtgmath.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\xtr1common
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\cstdlib
+f:\program files\nvidiatoolkit\include\cuda_surface_types.h
+f:\program files\nvidiatoolkit\include\builtin_types.h
+f:\program files\nvidiatoolkit\include\device_types.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\surface_types.h
+f:\program files\nvidiatoolkit\include\texture_types.h
+f:\program files\nvidiatoolkit\include\vector_types.h
+f:\program files\nvidiatoolkit\include\channel_descriptor.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\host_defines.h
+f:\program files\nvidiatoolkit\include\surface_types.h
+f:\program files\nvidiatoolkit\include\cuda_texture_types.h
+f:\program files\nvidiatoolkit\include\builtin_types.h
+f:\program files\nvidiatoolkit\include\device_types.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\surface_types.h
+f:\program files\nvidiatoolkit\include\texture_types.h
+f:\program files\nvidiatoolkit\include\vector_types.h
+f:\program files\nvidiatoolkit\include\channel_descriptor.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\host_defines.h
+f:\program files\nvidiatoolkit\include\texture_types.h
+f:\program files\nvidiatoolkit\include\device_functions.h
+f:\program files\nvidiatoolkit\include\builtin_types.h
+f:\program files\nvidiatoolkit\include\device_types.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\surface_types.h
+f:\program files\nvidiatoolkit\include\texture_types.h
+f:\program files\nvidiatoolkit\include\vector_types.h
+f:\program files\nvidiatoolkit\include\device_types.h
+f:\program files\nvidiatoolkit\include\host_defines.h
+f:\program files\nvidiatoolkit\include\sm_11_atomic_functions.h
+f:\program files\nvidiatoolkit\include\builtin_types.h
+f:\program files\nvidiatoolkit\include\device_types.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\surface_types.h
+f:\program files\nvidiatoolkit\include\texture_types.h
+f:\program files\nvidiatoolkit\include\vector_types.h
+f:\program files\nvidiatoolkit\include\host_defines.h
+f:\program files\nvidiatoolkit\include\sm_12_atomic_functions.h
+f:\program files\nvidiatoolkit\include\builtin_types.h
+f:\program files\nvidiatoolkit\include\device_types.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\surface_types.h
+f:\program files\nvidiatoolkit\include\texture_types.h
+f:\program files\nvidiatoolkit\include\vector_types.h
+f:\program files\nvidiatoolkit\include\host_defines.h
+f:\program files\nvidiatoolkit\include\sm_13_double_functions.h
+f:\program files\nvidiatoolkit\include\builtin_types.h
+f:\program files\nvidiatoolkit\include\device_types.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\surface_types.h
+f:\program files\nvidiatoolkit\include\texture_types.h
+f:\program files\nvidiatoolkit\include\vector_types.h
+f:\program files\nvidiatoolkit\include\device_types.h
+f:\program files\nvidiatoolkit\include\host_defines.h
+f:\program files\nvidiatoolkit\include\sm_20_atomic_functions.h
+f:\program files\nvidiatoolkit\include\builtin_types.h
+f:\program files\nvidiatoolkit\include\device_types.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\surface_types.h
+f:\program files\nvidiatoolkit\include\texture_types.h
+f:\program files\nvidiatoolkit\include\vector_types.h
+f:\program files\nvidiatoolkit\include\host_defines.h
+f:\program files\nvidiatoolkit\include\sm_32_atomic_functions.h
+f:\program files\nvidiatoolkit\include\builtin_types.h
+f:\program files\nvidiatoolkit\include\device_types.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\surface_types.h
+f:\program files\nvidiatoolkit\include\texture_types.h
+f:\program files\nvidiatoolkit\include\vector_types.h
+f:\program files\nvidiatoolkit\include\host_defines.h
+f:\program files\nvidiatoolkit\include\sm_35_atomic_functions.h
+f:\program files\nvidiatoolkit\include\sm_32_atomic_functions.h
+f:\program files\nvidiatoolkit\include\sm_20_intrinsics.h
+f:\program files\nvidiatoolkit\include\builtin_types.h
+f:\program files\nvidiatoolkit\include\device_types.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\surface_types.h
+f:\program files\nvidiatoolkit\include\texture_types.h
+f:\program files\nvidiatoolkit\include\vector_types.h
+f:\program files\nvidiatoolkit\include\device_types.h
+f:\program files\nvidiatoolkit\include\host_defines.h
+f:\program files\nvidiatoolkit\include\sm_30_intrinsics.h
+f:\program files\nvidiatoolkit\include\builtin_types.h
+f:\program files\nvidiatoolkit\include\device_types.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\surface_types.h
+f:\program files\nvidiatoolkit\include\texture_types.h
+f:\program files\nvidiatoolkit\include\vector_types.h
+f:\program files\nvidiatoolkit\include\device_types.h
+f:\program files\nvidiatoolkit\include\host_defines.h
+f:\program files\nvidiatoolkit\include\sm_32_intrinsics.h
+f:\program files\nvidiatoolkit\include\builtin_types.h
+f:\program files\nvidiatoolkit\include\device_types.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\surface_types.h
+f:\program files\nvidiatoolkit\include\texture_types.h
+f:\program files\nvidiatoolkit\include\vector_types.h
+f:\program files\nvidiatoolkit\include\device_types.h
+f:\program files\nvidiatoolkit\include\host_defines.h
+f:\program files\nvidiatoolkit\include\sm_35_intrinsics.h
+f:\program files\nvidiatoolkit\include\sm_32_intrinsics.h
+f:\program files\nvidiatoolkit\include\surface_functions.h
+f:\program files\nvidiatoolkit\include\builtin_types.h
+f:\program files\nvidiatoolkit\include\device_types.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\surface_types.h
+f:\program files\nvidiatoolkit\include\texture_types.h
+f:\program files\nvidiatoolkit\include\vector_types.h
+f:\program files\nvidiatoolkit\include\cuda_surface_types.h
+f:\program files\nvidiatoolkit\include\host_defines.h
+f:\program files\nvidiatoolkit\include\surface_types.h
+f:\program files\nvidiatoolkit\include\vector_functions.h
+f:\program files\nvidiatoolkit\include\vector_types.h
+f:\program files\nvidiatoolkit\include\texture_fetch_functions.h
+f:\program files\nvidiatoolkit\include\builtin_types.h
+f:\program files\nvidiatoolkit\include\device_types.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\surface_types.h
+f:\program files\nvidiatoolkit\include\texture_types.h
+f:\program files\nvidiatoolkit\include\vector_types.h
+f:\program files\nvidiatoolkit\include\cuda_texture_types.h
+f:\program files\nvidiatoolkit\include\host_defines.h
+f:\program files\nvidiatoolkit\include\texture_types.h
+f:\program files\nvidiatoolkit\include\vector_functions.h
+f:\program files\nvidiatoolkit\include\vector_types.h
+f:\program files\nvidiatoolkit\include\texture_indirect_functions.h
+f:\program files\nvidiatoolkit\include\builtin_types.h
+f:\program files\nvidiatoolkit\include\device_types.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\surface_types.h
+f:\program files\nvidiatoolkit\include\texture_types.h
+f:\program files\nvidiatoolkit\include\vector_types.h
+f:\program files\nvidiatoolkit\include\host_defines.h
+f:\program files\nvidiatoolkit\include\vector_functions.h
+f:\program files\nvidiatoolkit\include\surface_indirect_functions.h
+f:\program files\nvidiatoolkit\include\builtin_types.h
+f:\program files\nvidiatoolkit\include\device_types.h
+f:\program files\nvidiatoolkit\include\driver_types.h
+f:\program files\nvidiatoolkit\include\surface_types.h
+f:\program files\nvidiatoolkit\include\texture_types.h
+f:\program files\nvidiatoolkit\include\vector_types.h
+f:\program files\nvidiatoolkit\include\host_defines.h
+f:\program files\nvidiatoolkit\include\vector_functions.h
+f:\program files\nvidiatoolkit\include\device_launch_parameters.h
+f:\program files\nvidiatoolkit\include\vector_types.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\cstdio
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\stdio.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\swprintf.inl
+D:\Program Files\Windows Kits\8.1\Include\um\windows.h
+D:\Program Files\Windows Kits\8.1\Include\shared\winapifamily.h
+D:\Program Files\Windows Kits\8.1\Include\shared\sdkddkver.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\excpt.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\stdarg.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+D:\Program Files\Windows Kits\8.1\Include\shared\windef.h
+D:\Program Files\Windows Kits\8.1\Include\shared\minwindef.h
+D:\Program Files\Windows Kits\8.1\Include\shared\specstrings.h
+D:\Program Files\Windows Kits\8.1\Include\shared\specstrings_strict.h
+D:\Program Files\Windows Kits\8.1\Include\shared\specstrings_undef.h
+D:\Program Files\Windows Kits\8.1\Include\shared\driverspecs.h
+d:\program files\windows kits\8.1\include\shared\sdv_driverspecs.h
+D:\Program Files\Windows Kits\8.1\Include\um\winnt.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\ctype.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+D:\Program Files\Windows Kits\8.1\Include\shared\kernelspecs.h
+D:\Program Files\Windows Kits\8.1\Include\shared\basetsd.h
+D:\Program Files\Windows Kits\8.1\Include\shared\guiddef.h
+d:\program files\windows kits\8.1\include\shared\pshpack4.h
+d:\program files\windows kits\8.1\include\shared\poppack.h
+d:\program files\windows kits\8.1\include\shared\pshpack4.h
+d:\program files\windows kits\8.1\include\shared\poppack.h
+D:\Program Files\Windows Kits\8.1\Include\shared\pshpack4.h
+D:\Program Files\Windows Kits\8.1\Include\shared\poppack.h
+d:\program files\windows kits\8.1\include\shared\pshpack4.h
+d:\program files\windows kits\8.1\include\shared\pshpack2.h
+d:\program files\windows kits\8.1\include\shared\poppack.h
+d:\program files\windows kits\8.1\include\shared\pshpack2.h
+D:\Program Files\Windows Kits\8.1\Include\shared\pshpack2.h
+D:\Program Files\Windows Kits\8.1\Include\shared\poppack.h
+d:\program files\windows kits\8.1\include\shared\poppack.h
+d:\program files\windows kits\8.1\include\shared\pshpack8.h
+d:\program files\windows kits\8.1\include\shared\poppack.h
+d:\program files\windows kits\8.1\include\shared\poppack.h
+D:\Program Files\Windows Kits\8.1\Include\shared\apiset.h
+D:\Program Files\Windows Kits\8.1\Include\shared\ktmtypes.h
+D:\Program Files\Windows Kits\8.1\Include\um\winbase.h
+D:\Program Files\Windows Kits\8.1\Include\shared\apisetcconv.h
+D:\Program Files\Windows Kits\8.1\Include\um\minwinbase.h
+D:\Program Files\Windows Kits\8.1\Include\um\processenv.h
+D:\Program Files\Windows Kits\8.1\Include\um\fileapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\debugapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\utilapiset.h
+D:\Program Files\Windows Kits\8.1\Include\um\handleapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\errhandlingapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\fibersapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\namedpipeapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\profileapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\heapapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\ioapiset.h
+D:\Program Files\Windows Kits\8.1\Include\um\synchapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\interlockedapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\processthreadsapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\sysinfoapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\memoryapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\threadpoollegacyapiset.h
+D:\Program Files\Windows Kits\8.1\Include\um\threadpoolapiset.h
+D:\Program Files\Windows Kits\8.1\Include\um\bemapiset.h
+D:\Program Files\Windows Kits\8.1\Include\um\jobapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\wow64apiset.h
+D:\Program Files\Windows Kits\8.1\Include\um\libloaderapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\securitybaseapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\namespaceapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\systemtopologyapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\processtopologyapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\securityappcontainer.h
+D:\Program Files\Windows Kits\8.1\Include\um\realtimeapiset.h
+D:\Program Files\Windows Kits\8.1\Include\shared\winerror.h
+D:\Program Files\Windows Kits\8.1\Include\um\timezoneapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\wingdi.h
+D:\Program Files\Windows Kits\8.1\Include\shared\pshpack1.h
+D:\Program Files\Windows Kits\8.1\Include\shared\poppack.h
+D:\Program Files\Windows Kits\8.1\Include\shared\pshpack2.h
+D:\Program Files\Windows Kits\8.1\Include\shared\poppack.h
+D:\Program Files\Windows Kits\8.1\Include\shared\pshpack2.h
+D:\Program Files\Windows Kits\8.1\Include\shared\poppack.h
+D:\Program Files\Windows Kits\8.1\Include\shared\pshpack4.h
+D:\Program Files\Windows Kits\8.1\Include\shared\poppack.h
+D:\Program Files\Windows Kits\8.1\Include\shared\pshpack4.h
+D:\Program Files\Windows Kits\8.1\Include\shared\poppack.h
+D:\Program Files\Windows Kits\8.1\Include\um\winuser.h
+D:\Program Files\Windows Kits\8.1\Include\shared\pshpack2.h
+D:\Program Files\Windows Kits\8.1\Include\shared\poppack.h
+D:\Program Files\Windows Kits\8.1\Include\shared\tvout.h
+D:\Program Files\Windows Kits\8.1\Include\um\winnls.h
+D:\Program Files\Windows Kits\8.1\Include\um\datetimeapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\stringapiset.h
+D:\Program Files\Windows Kits\8.1\Include\um\winnls.h
+D:\Program Files\Windows Kits\8.1\Include\um\wincon.h
+D:\Program Files\Windows Kits\8.1\Include\um\consoleapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\winver.h
+D:\Program Files\Windows Kits\8.1\Include\um\verrsrc.h
+D:\Program Files\Windows Kits\8.1\Include\um\winreg.h
+D:\Program Files\Windows Kits\8.1\Include\um\reason.h
+D:\Program Files\Windows Kits\8.1\Include\um\winnetwk.h
+D:\Program Files\Windows Kits\8.1\Include\shared\wnnc.h
+D:\Program Files\Windows Kits\8.1\Include\shared\cderr.h
+D:\Program Files\Windows Kits\8.1\Include\um\dde.h
+D:\Program Files\Windows Kits\8.1\Include\um\ddeml.h
+D:\Program Files\Windows Kits\8.1\Include\um\dlgs.h
+D:\Program Files\Windows Kits\8.1\Include\um\lzexpand.h
+D:\Program Files\Windows Kits\8.1\Include\um\mmsystem.h
+D:\Program Files\Windows Kits\8.1\Include\um\mmsyscom.h
+D:\Program Files\Windows Kits\8.1\Include\shared\pshpack1.h
+D:\Program Files\Windows Kits\8.1\Include\shared\poppack.h
+D:\Program Files\Windows Kits\8.1\Include\shared\pshpack1.h
+D:\Program Files\Windows Kits\8.1\Include\um\mciapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\mmsyscom.h
+D:\Program Files\Windows Kits\8.1\Include\um\mmiscapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\mmsyscom.h
+D:\Program Files\Windows Kits\8.1\Include\um\mmiscapi2.h
+D:\Program Files\Windows Kits\8.1\Include\um\mmsyscom.h
+D:\Program Files\Windows Kits\8.1\Include\um\playsoundapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\mmsyscom.h
+D:\Program Files\Windows Kits\8.1\Include\um\mmeapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\mmsyscom.h
+D:\Program Files\Windows Kits\8.1\Include\um\timeapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\mmsyscom.h
+D:\Program Files\Windows Kits\8.1\Include\um\joystickapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\mmsyscom.h
+D:\Program Files\Windows Kits\8.1\Include\shared\poppack.h
+D:\Program Files\Windows Kits\8.1\Include\um\nb30.h
+D:\Program Files\Windows Kits\8.1\Include\shared\rpc.h
+D:\Program Files\Windows Kits\8.1\Include\shared\rpcdce.h
+D:\Program Files\Windows Kits\8.1\Include\shared\rpcdcep.h
+D:\Program Files\Windows Kits\8.1\Include\um\rpcnsi.h
+D:\Program Files\Windows Kits\8.1\Include\shared\rpcnterr.h
+D:\Program Files\Windows Kits\8.1\Include\shared\rpcasync.h
+D:\Program Files\Windows Kits\8.1\Include\um\shellapi.h
+D:\Program Files\Windows Kits\8.1\Include\shared\pshpack1.h
+D:\Program Files\Windows Kits\8.1\Include\shared\poppack.h
+D:\Program Files\Windows Kits\8.1\Include\um\winperf.h
+D:\Program Files\Windows Kits\8.1\Include\shared\pshpack8.h
+D:\Program Files\Windows Kits\8.1\Include\shared\poppack.h
+D:\Program Files\Windows Kits\8.1\Include\um\winsock.h
+D:\Program Files\Windows Kits\8.1\Include\shared\inaddr.h
+D:\Program Files\Windows Kits\8.1\Include\um\wincrypt.h
+D:\Program Files\Windows Kits\8.1\Include\shared\bcrypt.h
+D:\Program Files\Windows Kits\8.1\Include\um\ncrypt.h
+D:\Program Files\Windows Kits\8.1\Include\um\dpapi.h
+D:\Program Files\Windows Kits\8.1\Include\um\winefs.h
+D:\Program Files\Windows Kits\8.1\Include\um\winscard.h
+D:\Program Files\Windows Kits\8.1\Include\shared\wtypes.h
+d:\program files\windows kits\8.1\include\shared\rpcndr.h
+D:\Program Files\Windows Kits\8.1\Include\shared\pshpack8.h
+D:\Program Files\Windows Kits\8.1\Include\um\rpcnsip.h
+D:\Program Files\Windows Kits\8.1\Include\shared\rpcsal.h
+D:\Program Files\Windows Kits\8.1\Include\shared\poppack.h
+d:\program files\windows kits\8.1\include\shared\wtypesbase.h
+d:\program files\windows kits\8.1\include\shared\guiddef.h
+D:\Program Files\Windows Kits\8.1\Include\um\winioctl.h
+D:\Program Files\Windows Kits\8.1\Include\shared\pshpack1.h
+D:\Program Files\Windows Kits\8.1\Include\shared\poppack.h
+D:\Program Files\Windows Kits\8.1\Include\shared\pshpack1.h
+D:\Program Files\Windows Kits\8.1\Include\shared\poppack.h
+D:\Program Files\Windows Kits\8.1\Include\shared\pshpack1.h
+D:\Program Files\Windows Kits\8.1\Include\shared\poppack.h
+D:\Program Files\Windows Kits\8.1\Include\shared\pshpack1.h
+D:\Program Files\Windows Kits\8.1\Include\shared\poppack.h
+D:\Program Files\Windows Kits\8.1\Include\shared\pshpack1.h
+D:\Program Files\Windows Kits\8.1\Include\shared\poppack.h
+D:\Program Files\Windows Kits\8.1\Include\shared\pshpack1.h
+D:\Program Files\Windows Kits\8.1\Include\shared\poppack.h
+D:\Program Files\Windows Kits\8.1\Include\shared\pshpack1.h
+D:\Program Files\Windows Kits\8.1\Include\shared\poppack.h
+D:\Program Files\Windows Kits\8.1\Include\shared\winsmcrd.h
+D:\Program Files\Windows Kits\8.1\Include\um\winspool.h
+D:\Program Files\Windows Kits\8.1\Include\um\prsht.h
+D:\Program Files\Windows Kits\8.1\Include\shared\pshpack4.h
+D:\Program Files\Windows Kits\8.1\Include\shared\poppack.h
+D:\Program Files\Windows Kits\8.1\Include\um\ole2.h
+D:\Program Files\Windows Kits\8.1\Include\shared\pshpack8.h
+D:\Program Files\Windows Kits\8.1\Include\um\objbase.h
+D:\Program Files\Windows Kits\8.1\Include\shared\pshpack8.h
+D:\Program Files\Windows Kits\8.1\Include\um\combaseapi.h
+D:\Program Files\Windows Kits\8.1\Include\shared\pshpack8.h
+D:\Program Files\Windows Kits\8.1\Include\um\unknwnbase.h
+D:\Program Files\Windows Kits\8.1\Include\um\objidlbase.h
+D:\Program Files\Windows Kits\8.1\Include\shared\guiddef.h
+D:\Program Files\Windows Kits\8.1\Include\um\cguid.h
+D:\Program Files\Windows Kits\8.1\Include\shared\poppack.h
+D:\Program Files\Windows Kits\8.1\Include\um\objidl.h
+d:\program files\windows kits\8.1\include\um\unknwn.h
+D:\Program Files\Windows Kits\8.1\Include\um\urlmon.h
+d:\program files\windows kits\8.1\include\um\oleidl.h
+d:\program files\windows kits\8.1\include\um\servprov.h
+d:\program files\windows kits\8.1\include\um\msxml.h
+d:\program files\windows kits\8.1\include\um\oaidl.h
+D:\Program Files\Windows Kits\8.1\Include\um\propidl.h
+D:\Program Files\Windows Kits\8.1\Include\shared\poppack.h
+D:\Program Files\Windows Kits\8.1\Include\um\oleauto.h
+D:\Program Files\Windows Kits\8.1\Include\shared\pshpack8.h
+D:\Program Files\Windows Kits\8.1\Include\shared\poppack.h
+D:\Program Files\Windows Kits\8.1\Include\shared\poppack.h
+D:\Program Files\Windows Kits\8.1\Include\um\commdlg.h
+D:\Program Files\Windows Kits\8.1\Include\um\prsht.h
+D:\Program Files\Windows Kits\8.1\Include\shared\pshpack1.h
+D:\Program Files\Windows Kits\8.1\Include\shared\poppack.h
+D:\Program Files\Windows Kits\8.1\Include\shared\stralign.h
+D:\Program Files\Windows Kits\8.1\Include\um\winsvc.h
+D:\Program Files\Windows Kits\8.1\Include\um\mcx.h
+D:\Program Files\Windows Kits\8.1\Include\um\imm.h
+D:\Program Files\Windows Kits\8.1\Include\um\ime_cmodes.h
+F:\Program Files\Microsoft Visual Studio 12.0\VC\include\ctime

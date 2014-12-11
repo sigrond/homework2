@@ -1,0 +1,26 @@
+﻿Build started 2014-12-11 18:44:27.
+     1>Project "f:\users\x\documents\visual studio 2013\Projects\homework2\homework2\homework2.vcxproj" on node 2 (Build target(s)).
+     1>AddCudaCompileDeps:
+         F:\Program Files\Microsoft Visual Studio 12.0\VC\bin\cl.exe /E /nologo /showIncludes /TP /D__CUDACC__ /DWIN32 /D_DEBUG /D_CONSOLE /D_MBCS /I"F:\Program Files\NVIDIAtoolkit\include" /I"F:\Program Files\NVIDIAtoolkit\bin" /I"F:\Program Files\NVIDIAtoolkit\include" /I. /FIcuda_runtime.h /c "f:\users\x\documents\visual studio 2013\Projects\homework2\homework2\kernel.cu" 
+       CudaBuild:
+         Compiling CUDA source file kernel.cu...
+         cmd.exe /C "D:\Users\x\AppData\Local\Temp\tmp473d1d57cc76470988d58279d9066e58.cmd"
+         "F:\Program Files\NVIDIAtoolkit\bin\nvcc.exe" -gencode=arch=compute_20,code=\"sm_20,compute_20\" --use-local-env --cl-version 2013 -ccbin "F:\Program Files\Microsoft Visual Studio 12.0\VC\bin"  -I"F:\Program Files\NVIDIAtoolkit\include" -I"F:\Program Files\NVIDIAtoolkit\include"  -G   --keep-dir Debug -maxrregcount=0  --machine 32 --compile -cudart static  -g   -DWIN32 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MDd  " -o Debug\kernel.cu.obj "f:\users\x\documents\visual studio 2013\Projects\homework2\homework2\kernel.cu"
+         
+         f:\users\x\documents\visual studio 2013\Projects\homework2\homework2>"F:\Program Files\NVIDIAtoolkit\bin\nvcc.exe" -gencode=arch=compute_20,code=\"sm_20,compute_20\" --use-local-env --cl-version 2013 -ccbin "F:\Program Files\Microsoft Visual Studio 12.0\VC\bin"  -I"F:\Program Files\NVIDIAtoolkit\include" -I"F:\Program Files\NVIDIAtoolkit\include"  -G   --keep-dir Debug -maxrregcount=0  --machine 32 --compile -cudart static  -g   -DWIN32 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MDd  " -o Debug\kernel.cu.obj "f:\users\x\documents\visual studio 2013\Projects\homework2\homework2\kernel.cu" 
+         kernel.cu
+       Link:
+         F:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"f:\users\x\documents\visual studio 2013\Projects\homework2\Debug\homework2.exe" /INCREMENTAL /NOLOGO /LIBPATH:"F:\Program Files\NVIDIAtoolkit\lib\Win32" cudart.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"f:\users\x\documents\visual studio 2013\Projects\homework2\Debug\homework2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"f:\users\x\documents\visual studio 2013\Projects\homework2\Debug\homework2.lib" /MACHINE:X86 Debug\kernel.cu.obj
+         homework2.vcxproj -> f:\users\x\documents\visual studio 2013\Projects\homework2\Debug\homework2.exe
+       PostBuildEvent:
+         echo copy "F:\Program Files\NVIDIAtoolkit\bin\cudart*.dll" "f:\users\x\documents\visual studio 2013\Projects\homework2\Debug\"
+         copy "F:\Program Files\NVIDIAtoolkit\bin\cudart*.dll" "f:\users\x\documents\visual studio 2013\Projects\homework2\Debug\"
+         :VCEnd
+         copy "F:\Program Files\NVIDIAtoolkit\bin\cudart*.dll" "f:\users\x\documents\visual studio 2013\Projects\homework2\Debug\"
+         F:\Program Files\NVIDIAtoolkit\bin\cudart32_65.dll
+         Liczba skopiowanych plików:         1.
+     1>Done Building Project "f:\users\x\documents\visual studio 2013\Projects\homework2\homework2\homework2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:24.50
